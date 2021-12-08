@@ -53,7 +53,8 @@ doc/api/
 .pub-cache/
 .pub/
 /build/
-
+/macos/
+/web/
 # Web related
 lib/generated_plugin_registrant.dart
 
